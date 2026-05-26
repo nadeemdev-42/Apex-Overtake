@@ -1,0 +1,6 @@
+{
+  "name": "2D Car Racing Game",
+  "description": "A polished 2D top-down arcade car racing game with responsive controls, lane switching, dynamic obstacles, and interactive speed boosts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
